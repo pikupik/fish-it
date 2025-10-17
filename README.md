@@ -9,7 +9,7 @@ This GUI brings you advanced fishing automation, selling features, and teleporta
 
 ## Script? Paste This On your Executor
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/pikupik/fish-it/main/codepikV2.1a.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pikupik/fish-it/main/codepikV2.lua"))()
 
 ---
 

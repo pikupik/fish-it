@@ -34,6 +34,12 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/pikupik/fish-it/main/
 
 ---
 
+## 📞 Hit Me on
+
+**Discord:** codepikk
+
+---
+
 ## 📜 License
 
 This project is released under the **MIT License**.

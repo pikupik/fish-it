@@ -13,6 +13,10 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/pikupik/fish-it/main/
 
 ---
 
+## Use this Sript At Your Own Risk!
+
+---
+
 ## 🧠 Update Note
 
 * Added Teleport To NPC

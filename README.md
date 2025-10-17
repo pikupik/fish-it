@@ -6,6 +6,12 @@ A modern and fully interactive automation system for **Roblox Fishing Simulator*
 This GUI brings you advanced fishing automation, selling features, and teleportation with sleek design and smooth animations.
 
 ---
+---
+## Script? Paste This On your Executor
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pikupik/blubla/main/v01.lua"))()
+
+---
 
 ## 🚀 Features
 

@@ -17,24 +17,15 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/pikupik/fish-it/main/
 
 ---
 
-## 🧠 Update Note
+## 🔔 Latest Update
 
-* Added Teleport To NPC
-* Added Teleport To Event
-* Adjust Fishing Delay
-
----
-
-## 🔔 Version Info
-
-**Version:** Beta Test V.2.1a
-**Status:** Stable (Public Free Release)
-**Developer:** Codepikk
-**Note:** Found a bug? Reach out on Discord!
+**Version:** v2.2  
+**What's New:** Anti AFK System
+**Full Changelog:** [View All Updates](CHANGELOG.md)
 
 ---
 
-## 📞 Hit Me on
+## Hit Me On
 
 **Discord:** codepikk
 

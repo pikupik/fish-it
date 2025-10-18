@@ -1,6 +1,6 @@
 ---
 
-# 🐟 Fish It Auto GUI (by Codepikk)
+# 🐟 Fish It Script (by Codepikk)
 
 A modern and fully interactive automation system for **Roblox Fishing Simulator**, designed for efficiency, simplicity, and a clean visual experience.
 This GUI brings you advanced fishing automation, selling features, and teleportation with sleek design and smooth animations.

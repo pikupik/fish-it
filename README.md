@@ -20,7 +20,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/pikupik/fish-it/main/
 ## 🔔 Latest Update
 
 **Version:** v2.2  
-**What's New:** Anti AFK System
+**What's New:** Anti AFK Systems check
 **Full Changelog:** [View All Updates](CHANGELOG.md)
 
 ---

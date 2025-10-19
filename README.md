@@ -19,7 +19,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/pikupik/fish-it/main/
 
 ## 🔔 Latest Update
 
-**Version:** v2.2  
+**Version:** v3.2  
 **Full Changelog:** [View All Updates](CHANGELOG.md)
 
 ---
